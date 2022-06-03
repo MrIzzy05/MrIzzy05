@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering and development
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on anything software
-- 📫 How to reach me ...
+- 📫 How to reach me isaiahikharo50@gmail.com
 
 <!---
 MrIzzy05/MrIzzy05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
